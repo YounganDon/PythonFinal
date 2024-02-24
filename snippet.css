@@ -1,0 +1,12 @@
+aboutme h1{
+   background-color: #ff8177;
+   background-image: linear-gradient(to right, #ff8177 0%, #8e70f7 100%);
+   background-size: 100%;
+   margin-top: 3rem;
+   margin-bottom: 5rem;
+   font-size: 3rem;
+   -webkit-background-clip:text;
+   -moz-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   -moz-text-fill-color: transparent;
+}
